@@ -1,0 +1,17 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam (varsa)
+venv/
+env/
+
+# SQLite veritabanı dosyası (depolamaya gerek yok)
+predictions.db
+
+# Model dosyası (isteğe bağlı, ama genelde modele ihtiyacımız var, sen karar ver)
+# imdb_rating_model.pkl
+
+# IDE dosyaları (örnek VSCode)
+.vscode/
+.idea/
